@@ -1,0 +1,19 @@
+site_name: COOLERCHIPS
+repo_url: https://github.com/NREL/COOLERCHIPS-Technical-Evaluation-Team
+repo_name: NREL/COOLERCHIPS
+theme:
+  name: material
+  palette:
+    primary: light blue
+features:
+    - navigation.tabs
+    - navigation.indexes
+markdown_extensions:
+  - toc:
+      permalink: "#"
+  - admonition
+  - attr_list
+  - meta
+  - pymdownx.details
+  - pymdownx.highlight
+  - pymdownx.superfences
