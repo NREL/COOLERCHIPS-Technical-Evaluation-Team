@@ -1,13 +1,12 @@
 site_name: COOLERCHIPS
 repo_url: https://github.com/NREL/COOLERCHIPS-Technical-Evaluation-Team
 repo_name: NREL/COOLERCHIPS
+extra_css:
+  - stylesheets/extra.css
 theme:
   name: material
-  palette:
-    primary: light blue
-features:
-    - navigation.tabs
-    - navigation.indexes
+  features:
+      - navigation.indexes
 markdown_extensions:
   - toc:
       permalink: "#"
@@ -17,3 +16,9 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.highlight
   - pymdownx.superfences
+nav:
+  - Home: 
+    - index.md
+  # - Example Section: 
+  #   - example_section/index.md
+  #   - Example Page: example_section/page.md
