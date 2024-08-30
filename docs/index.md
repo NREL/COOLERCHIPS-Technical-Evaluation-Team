@@ -22,5 +22,5 @@ hide:
 
 ## Calendar
 Calendar of training events. 
-<iframe width=900, height=700 scrolling="no" frameBorder=0 src="../includes/calendar.html"></iframe>
+<iframe width=900, height=700 scrolling="no" frameBorder=0 src="includes/calendar.html"></iframe>
 <calendar.html>
