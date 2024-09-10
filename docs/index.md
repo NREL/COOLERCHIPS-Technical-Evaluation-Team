@@ -14,6 +14,13 @@ hide:
 
 ## Webinars
 
+### Upcoming
+
+September 23 at 4pm Eastern 
+
+
+October 7 at 4pm Eastern
+
 
 
 ## Additional Resources
