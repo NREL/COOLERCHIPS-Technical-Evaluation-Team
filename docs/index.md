@@ -6,7 +6,7 @@ hide:
 # COOLERCHIPS Technical Evaluation Team
 
 ## Intro
-
+A collection of various resources for the general COOLERCHIPS user community's benefit. Initially used to track Webinars hosted by the COOLERCHIPS Technical Evaluation Team.
 
 ## Contributing 
 
@@ -16,15 +16,20 @@ hide:
 
 ### Upcoming
 
-September 23 at 4pm Eastern 
+September 23 (Monday) at 4pm Eastern / 2pm Mountain
+
+In-development:
+
+October  7 (Monday) at 4pm Eastern / 2pm Mountain
+
+October 21 (Monday) at 4pm Eastern / 2pm Mountain
+
+November 4 (Monday) at 4pm Eastenn / 2pm Mountain
 
 
-October 7 at 4pm Eastern
+## Contributing
 
-
-
-## Additional Resources
-
+These docs are driven by the COOLERCHIPS community. They are currently under active development. If you would like to contribute or recommend a topic to be covered please contact David.Sickinger@nrel.gov 
 
 
 ## Calendar
