@@ -16,15 +16,15 @@ A collection of various resources for the general COOLERCHIPS user community's b
 
 ### Upcoming
 
-September 23 (Monday) at 4pm Eastern / 2pm Mountain
+September 23 (Monday) at 4pm Eastern time: Details in calendar invite below.
 
-In-development:
+### In-development (details soon):
 
-October  7 (Monday) at 4pm Eastern / 2pm Mountain
+October  7 (Monday) at 4pm Eastern time.
 
-October 21 (Monday) at 4pm Eastern / 2pm Mountain
+October 21 (Monday) at 4pm Eastern time.
 
-November 4 (Monday) at 4pm Eastenn / 2pm Mountain
+November 4 (Monday) at 4pm Eastenn time.
 
 
 ## Contributing
@@ -33,6 +33,6 @@ These docs are driven by the COOLERCHIPS community. They are currently under act
 
 
 ## Calendar
-Calendar of training events. 
+Calendar of webinar events. 
 <iframe width=900, height=700 scrolling="no" frameBorder=0 src="includes/calendar.html"></iframe>
 <calendar.html>
