@@ -20,7 +20,7 @@ September 23 (Monday) at 4pm Eastern time: Details in calendar invite below.
 
 ### In-development (details soon):
 
-October  7 (Monday) at 4pm Eastern time.
+October 4 (Friday) OR October 7 (Monday) at 4pm Eastern time.
 
 October 21 (Monday) at 4pm Eastern time.
 
