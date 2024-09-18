@@ -16,15 +16,15 @@ A collection of various resources for the general COOLERCHIPS user community's b
 
 ### Upcoming
 
-September 23 (Monday) at 4pm Eastern time: Details in calendar invite below.
+October 7 (Monday) at 4pm Eastern time
+
+November 4 (Monday) at 4pm Eastern time: Details in calendar invite below.
 
 ### In-development (details soon):
 
-October 4 (Friday) OR October 7 (Monday) at 4pm Eastern time.
-
 October 21 (Monday) at 4pm Eastern time.
 
-November 4 (Monday) at 4pm Eastenn time.
+December 2 (Monday) at 4pm Eastern time.
 
 
 ## Contributing
