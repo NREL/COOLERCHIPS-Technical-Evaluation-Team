@@ -16,15 +16,15 @@ A collection of various resources for the general COOLERCHIPS user community's b
 
 ### Upcoming
 
-October 7 (Monday) at 4pm Eastern time
+October 7 (Monday) at 4pm Eastern - Guest Presenter: Dr. Pritish Parida (details in calendar invite below).
 
-November 4 (Monday) at 4pm Eastern time: Details in calendar invite below.
+November 4 (Monday) at 4pm Eastern - Guest Presenter: Dr. Alfonso Ortega (details in calendar invite below).
 
 ### In-development (details soon):
 
-October 21 (Monday) at 4pm Eastern time.
+October 21 (Monday) at 4pm Eastern.
 
-December 2 (Monday) at 4pm Eastern time.
+December 2 (Monday) at 4pm Eastern.
 
 
 ## Contributing
