@@ -17,7 +17,7 @@ A collection of various resources for the general COOLERCHIPS user community's b
 ### Upcoming
 
 + October 7 (Monday) at 4pm Eastern
-  - Guest Presenter: Dr. Pritish Parida (details in calendar event below).
+    - Guest Presenter: Dr. Pritish Parida (details in calendar event below).
 
 + October 21 (Monday) at 4pm Eastern
   - Details added soon.
