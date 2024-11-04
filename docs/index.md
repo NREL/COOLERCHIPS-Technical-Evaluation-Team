@@ -20,7 +20,7 @@ A collection of various resources for the general COOLERCHIPS user community's b
 
 ### In-development:
 
-- December 2 (Monday) at 4pm Eastern.
+- December 4 (Wednesday) at 4pm Eastern.
 - 2025 dates will be selected based on feedback.
 
 ### Past
