@@ -16,15 +16,15 @@ A collection of various resources for the general COOLERCHIPS user community's b
 
 ### Upcoming
 
-- November 4 (Monday) at 4pm Eastern. Guest Presenter: Dr. Alfonso Ortega (details in calendar event below).
+- December 4 (Wednesday) at 4pm Eastern. Team D will use this time to discuss the draft **Standardized Testing for COOLERCHIPS** document.
 
 ### In-development:
 
-- December 4 (Wednesday) at 4pm Eastern.
 - 2025 dates will be selected based on feedback.
 
 ### Past
 
+- November 4 (Monday) at 4pm Eastern. Guest Presenter: Dr. Alfonso Ortega (details in calendar event below).
 - October 7 (Monday) at 4pm Eastern. Guest Presenter: Dr. Pritish Parida (details in calendar event below).
 
 ## Contributing
