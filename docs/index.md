@@ -16,7 +16,7 @@ A collection of various resources for the general COOLERCHIPS user community's b
 
 ### Upcoming
 
-- December 4 (Wednesday) at 4pm Eastern. Team D will use this time to discuss the draft **Standardized Testing for COOLERCHIPS** document.
+- December 4 (Wednesday) at 4pm Eastern. Team D will use this time to review the draft **Standardized Testing for COOLERCHIPS** document.
 
 ### In-development:
 
