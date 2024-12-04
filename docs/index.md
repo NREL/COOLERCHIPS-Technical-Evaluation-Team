@@ -20,7 +20,7 @@ A collection of various resources for the general COOLERCHIPS user community's b
 
 ### In-development:
 
-- 2025 dates will be selected based on feedback.
+- 2025 dates, intend to hold webinars on the last Friday of each month at 3pm Eastern.
 
 ### Past
 
