@@ -14,18 +14,12 @@ A collection of various resources for the general COOLERCHIPS user community's b
 
 ## Webinars
 
-### Upcoming
-
-- December 4 (Wednesday) at 4pm Eastern. The Technical Evaluation Team will review the draft **Standardized Testing for COOLERCHIPS** document.
-
-### In-development:
-
-- 2025 dates, intend to hold webinars on the last Friday of each month at 3pm Eastern.
 
 ### Past
 
-- November 4 (Monday) at 4pm Eastern. Guest Presenter: Dr. Alfonso Ortega (details in calendar event below).
-- October 7 (Monday) at 4pm Eastern. Guest Presenter: Dr. Pritish Parida (details in calendar event below).
+- December 4, 2024. The Technical Evaluation Team reviewed the draft **Standardized Testing for COOLERCHIPS** document.
+- November 4, 2024. Guest Presenter: Dr. Alfonso Ortega (details in calendar event below).
+- October 7, 2024. Guest Presenter: Dr. Pritish Parida (details in calendar event below).
 
 ## Contributing
 
